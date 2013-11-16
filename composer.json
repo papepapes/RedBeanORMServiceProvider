@@ -1,0 +1,16 @@
+{
+    "name": "papepapes/red-bean-service-provider",
+    "description": "RedBean ORM Service provider for Silex",
+    "keywords": ["php", "silex", "orm", "redbean"],
+    "license": "BSD/GPLv2",
+    "authors": [
+        {
+            "name": "Mamadou GUEYE",
+            "email": "papepapes@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "gabordemooij/redbean": "dev-master"
+    }
+}
