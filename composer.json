@@ -1,5 +1,5 @@
 {
-    "name": "papepapes/red-bean-service-provider",
+    "name": "papepapes/redbean-service-provider",
     "description": "RedBean ORM Service provider for Silex",
     "keywords": ["php", "silex", "orm", "redbean"],
     "license": "BSD/GPLv2",
